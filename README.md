@@ -4,9 +4,13 @@ A new Flutter project.
 
 flutter vertion 3.32.1
 
+
+
 ## Getting Started
 Overview:
 Recreate the MindMate app UI as shown in the images. This includes:
+
+working = firstscreen getstart button->second screen save mood button->third screen
 
 A mood reflection wheel screen
 
@@ -36,7 +40,7 @@ CustomPaint or flutter_arc_text for arc labels.
 
 Circular Percent Indicator for the mood level circle.
 
-fl_chart or syncfusion_flutter_charts for the bottom graph.
+syncfusion_flutter_charts for the bottom graph.
 
 Google Fonts, AnimatedContainer, GestureDetector.
 
@@ -55,7 +59,7 @@ Flutter Widgets & Packages:
 
 Column, Row, CircleAvatar, LinearProgressIndicator.
 
-BarChart using fl_chart for weekly mental energy.
+BarChart using syncfusion_flutter_charts for weekly mental energy.
 
 Container + BoxDecoration for AI suggestion cards.
 
